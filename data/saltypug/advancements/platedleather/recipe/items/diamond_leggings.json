@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "saltypug:platedleather/items/diamond_leggings"
+				
+			}
+		}
+	},
+	"rewards": {
+		"function": "saltypug:platedleather/recipes/items/diamond_leggings"
+	}
+}

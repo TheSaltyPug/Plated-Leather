@@ -1,0 +1,20 @@
+{
+	"type": "crafting_shaped",
+	"pattern": [
+		"===",
+		"=|=",
+        "= ="
+	],
+	"key": {
+		"=": {
+			"item": "minecraft:diamond"
+		},
+		"|": {
+			"item": "minecraft:leather_leggings"
+		}
+	},
+	"result": {
+		"item": "minecraft:knowledge_book",
+		"count": 2
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "saltypug:platedleather/items/iron_chestplate"
+				
+			}
+		}
+	},
+	"rewards": {
+		"function": "saltypug:platedleather/recipes/items/iron_chestplate"
+	}
+}

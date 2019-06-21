@@ -1,0 +1,1 @@
+tellraw @p ["",{"text":"Successfully loaded data pack: "},{"text":"Plated Leather v1.0.0","color":"yellow"},{"text":" by "},{"text":"TheSaltyPug","color":"dark_purple"}] 

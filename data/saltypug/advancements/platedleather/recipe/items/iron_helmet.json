@@ -1,0 +1,14 @@
+{
+	"criteria": {
+		"recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "saltypug:platedleather/items/iron_helmet"
+				
+			}
+		}
+	},
+	"rewards": {
+		"function": "saltypug:platedleather/recipes/items/iron_helmet"
+	}
+}

@@ -1,0 +1,18 @@
+{
+    "display": {
+        "title": "Plated Leather v1.0.0",
+        "description": "Craft iron and diamond-plated leather armors",
+        "icon": {
+            "item": "minecraft:leather_chestplate"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:saltypug",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    
+    }
+}
